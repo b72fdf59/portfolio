@@ -3,7 +3,3 @@
 </script>
 
 <slot />
-
-<head>
-	<title>Magow Adwithya</title>	
-</head>
