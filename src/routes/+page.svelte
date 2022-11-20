@@ -1,8 +1,8 @@
 <script>
 	import Header from "$lib/header.svelte";
-	import Landing from "$lib/landing.svelte";
+	import Hero from "$lib/hero.svelte";
 
 </script>
 
 <Header/>
-<Landing />
+<Hero />

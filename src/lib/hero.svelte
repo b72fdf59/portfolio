@@ -1,6 +1,6 @@
 <section
 	id="landing"
-	class="flex flex-col justify-center 
+	class="flex flex-col justify-center items-center
 		bg-gradient-to-r 
 		min-h-[95vh]
 		custom-gradient"
