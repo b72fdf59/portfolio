@@ -9,14 +9,15 @@
 		<h1 class="pt-10 text-7xl text-white">Hey, I am <br /> Adwithya Magow</h1>
 		<h2 class="font-serif pt-12 text-3xl text-white">I'm a full-stack developer</h2>
 	</div>
-	<div >
-		<button class="absolute bottom-10 text-white rotate-180">
+	<div>
+		<button class="absolute bottom-10 text-white bounce">
 			<svg
 				width="80"
 				height="80"
 				viewBox="0 0 80 80"
 				fill="none"
 				xmlns="http://www.w3.org/2000/svg"
+				transform="rotate(180)"
 			>
 				<path
 					d="M16.0371 52.3672L36.8551 31.5492C38.6125 29.7918 41.4617 29.7918 43.2191 31.5492L64.0371 52.3672"
@@ -47,5 +48,27 @@
 			#46eefa,
 			#5ffbf1
 		);
+	}
+
+	.bounce {
+		animation: bounce 5s;
+		animation-delay: 1s;
+		animation-iteration-count: infinite;
+	}
+
+	@keyframes bounce {
+		0%,
+		25%,
+		50%,
+		75%,
+		100% {
+			transform: translateY(0);
+		}
+		40% {
+			transform: translateY(20px);
+		}
+		60% {
+			transform: translateY(12px);
+		}
 	}
 </style>
