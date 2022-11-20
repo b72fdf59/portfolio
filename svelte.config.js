@@ -17,9 +17,6 @@ const config = {
 			assets: 'docs',
 			fallback: null
 		}),
-		paths: {
-			base: "/portfolio"
-		}
 	}
 };
 
