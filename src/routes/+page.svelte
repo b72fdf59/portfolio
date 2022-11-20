@@ -1,7 +1,13 @@
+<script>
+	import Header from "$lib/header.svelte";
+
+</script>
+
+<Header/>
 <section
 	class="flex flex-col justify-center 
 		bg-gradient-to-r 
-		h-screen w-screen 
+		h-screen
 		custom-gradient"
 >
 	<div class="pl-10">
