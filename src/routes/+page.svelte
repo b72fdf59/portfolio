@@ -5,9 +5,10 @@
 
 <Header/>
 <section
+	id="landing"
 	class="flex flex-col justify-center 
 		bg-gradient-to-r 
-		h-screen
+		min-h-[95vh]
 		custom-gradient"
 >
 	<div class="pl-10">
