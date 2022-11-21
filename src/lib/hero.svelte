@@ -1,5 +1,5 @@
 <section
-	id="landing"
+	id="hero"
 	class="flex flex-col justify-center items-center
 		bg-gradient-to-r 
 		min-h-[95vh]

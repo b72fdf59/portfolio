@@ -8,7 +8,7 @@
 				<li>
 					<a
 						class="nav-link block text-gray-600 hover:text-gray-700 focus:text-gray-700 transition duration-150 ease-in-out"
-						href="#landing"
+						href="#hero"
 					>
 						Home
 					</a>
