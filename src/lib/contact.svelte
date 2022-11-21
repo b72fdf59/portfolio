@@ -3,9 +3,9 @@
 	<div
 		class="flex flex-col block h-fit w-5/6 max-w-2xl py-5 px-24 rounded-lg shadow-lg custom-gradient"
 	>
-		<h2 class="text-center text-4xl mb-14">Get In Touch</h2>
+		<h2 class="text-center text-4xl mb-14 text-white">Get In Touch</h2>
 		<div class="flex flex-col items-center">
-			<p class="text-center mb-10">
+			<p class="text-center mb-10 text-white">
 				I am always looking for new avenues to learn and grow. Feel free to reach out whether you
 				would like to say hi, ask a qustion or would like to share an opportunity. I will get back
 				to you!
