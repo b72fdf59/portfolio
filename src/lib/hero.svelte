@@ -10,7 +10,7 @@
 		<h2 class="font-serif pt-12 text-3xl text-white">I'm a full-stack developer</h2>
 	</div>
 	<div>
-		<button class="absolute bottom-10 text-white bounce">
+		<button class="absolute bottom-10 text-white animate-[bounce_2s_infinite]">
 			<svg
 				width="80"
 				height="80"
@@ -48,27 +48,5 @@
 			#46eefa,
 			#5ffbf1
 		);
-	}
-
-	.bounce {
-		animation: bounce 5s;
-		animation-delay: 1s;
-		animation-iteration-count: infinite;
-	}
-
-	@keyframes bounce {
-		0%,
-		25%,
-		50%,
-		75%,
-		100% {
-			transform: translateY(0);
-		}
-		40% {
-			transform: translateY(20px);
-		}
-		60% {
-			transform: translateY(12px);
-		}
 	}
 </style>
