@@ -5,12 +5,12 @@
 		min-h-[95vh]
 		custom-gradient"
 >
-	<div class="text-center">
+	<div class="text-center grow flex flex-col items-center justify-center">
 		<h1 class="pt-10 text-7xl text-white">Hey, I am <br /> Adwithya Magow</h1>
 		<h2 class="font-serif pt-12 text-3xl text-white">I'm a full-stack developer</h2>
 	</div>
 	<div>
-		<button class="absolute bottom-10 text-white animate-[bounce_2s_infinite]">
+		<button class="text-white animate-[bounce_2s_infinite]">
 			<svg
 				width="80"
 				height="80"
