@@ -1,5 +1,5 @@
 <section id="contact" class="flex flex-col items-center justify-center h-[66.67vh]">
-	<h1 class="section-header relative text-center text-5xl mb-40">Contact</h1>
+	<h1 class="section-header relative text-center text-5xl mt-10 mb-32">Contact</h1>
 	<div class="flex flex-col block min-h-[25vh] w-5/6 max-w-2xl py-5 px-24 rounded-lg shadow-lg custom-gradient">
 		<h2 class="text-center text-4xl mb-14">Get In Touch</h2>
 		<div class="flex flex-col items-center">
