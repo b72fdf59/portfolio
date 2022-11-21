@@ -1,4 +1,5 @@
 <section
+    id="contact"
 	class="flex items-center justify-center
             h-screen"
 >
